@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EDSR-Keras/.idea/EDSR-Keras.iml" filepath="$PROJECT_DIR$/../EDSR-Keras/.idea/EDSR-Keras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EDSR-PyTorch/.idea/EDSR-PyTorch.iml" filepath="$PROJECT_DIR$/../EDSR-PyTorch/.idea/EDSR-PyTorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python.iml" filepath="$PROJECT_DIR$/.idea/python.iml" />
+    </modules>
+  </component>
+</project>
